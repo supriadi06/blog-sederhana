@@ -1,3 +1,11 @@
+## How to install
+- Clone or download this project blog
+- Copy to load konfigurasi server (ex : htdocs)
+- This blog using PHP 7.0
+- Run #composer update
+- #PHP artisan migrate
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
